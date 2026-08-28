@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**Juanrdz42/Juanrdz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Tecnológico de Monterrey, interested in building software and data-driven products.
 
-Here are some ideas to get you started:
+### 👨‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science and Technology at Tecnológico de Monterrey
+- 💻 Interested in Software Engineering and Product
+- 🛠️ I enjoy building projects across web, mobile, AI, data, and IoT
+- 🌎 Based in Monterrey, Mexico
+
+### 🧰 Tools & Technologies
+
+Python · C++ · C# · JavaScript · Swift · SQL · React · ASP.NET Core · Git
+
+### 📫 Connect with me
+
+- [Portfolio](https://www.juanrdz.com/)
+- [LinkedIn](TU_LINK_DE_LINKEDIN)
