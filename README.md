@@ -1,19 +1,24 @@
-# Hi, I'm Juan 👋
+# Juan Antonio Rodriguez Reyna
 
-Computer Science student at Tecnológico de Monterrey, interested in building software and data-driven products.
+Computer Science & Technology @ Tecnológico de Monterrey
 
-### 👨‍💻 About me
+I like building things and bringing ideas to life — from software and AI to data, hardware, and products people can actually use.
 
-- 🎓 Studying Computer Science and Technology at Tecnológico de Monterrey
-- 💻 Interested in Software Engineering and Product
-- 🛠️ I enjoy building projects across web, mobile, AI, data, and IoT
-- 🌎 Based in Monterrey, Mexico
+## Currently
 
-### 🧰 Tools & Technologies
+- Building software & data-driven products
+- Leading SEITC, the Computer Science Student Society at Tecnológico de Monterrey
+- Exploring Software Engineering & Product Management
 
-Python · C++ · C# · JavaScript · Swift · SQL · React · ASP.NET Core · Git
+## Tech
 
-### 📫 Connect with me
+**Languages**  
+Python · C++ · C# · JavaScript · SQL · Swift
 
-- [Portfolio](https://www.juanrdz.com/)
-- [LinkedIn](TU_LINK_DE_LINKEDIN)
+**Technologies**  
+React · FastAPI · ASP.NET Core · MySQL · Snowflake · Core ML · Unity · MQTT · Git
+
+
+## Connect
+
+[Portfolio](https://www.juanrdz.com/) · [LinkedIn](TU_LINKEDIN)
