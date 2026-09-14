@@ -44,7 +44,6 @@ I like building things and bringing ideas to life — from software and AI to da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
 </p>
 
-Peeero: Vision Framework y Core ML no tienen iconos propios buenos en Devicon, así que ahí usé Apple para ambos. Si se
 
 
 ## Connect
